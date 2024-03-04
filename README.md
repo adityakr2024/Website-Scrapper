@@ -1,2 +1,2 @@
 # Website-Scrapper
-Python based scrapper project
+Python-based simple website scrapper project using only BeautifulSoup and Request
